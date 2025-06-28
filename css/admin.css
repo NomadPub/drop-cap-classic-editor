@@ -1,0 +1,12 @@
+/* Remove if using SVG icon */
+i.mce-i-dropcap {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+i.mce-i-dropcap:before {
+    content: "D";
+    color: #333;
+}

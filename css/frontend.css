@@ -1,0 +1,22 @@
+.dropcap {
+    float: left;
+    margin: 0 10px 0 0;
+    font-weight: bold;
+}
+
+.dropcap.simple {
+    font-family: Georgia, serif;
+}
+
+.dropcap.fancy {
+    font-family: Georgia, serif;
+    background: #f0f0f0;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+.dropcap.modern {
+    font-family: Arial, sans-serif;
+    border-bottom: 3px solid #333;
+    padding-bottom: 5px;
+}
